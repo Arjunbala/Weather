@@ -5,11 +5,12 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="time">Time</string>
-    <dimen name="time_size">7mm</dimen>
-    <dimen name="city_size">7mm</dimen>
+    <dimen name="time_size">5mm</dimen>
+    <dimen name="city_size">5mm</dimen>
     <string name="city">City</string>
     <string name="status">Status</string>
     <string name="temp">Temp</string>
     <string name="refresh">Refresh</string>
+    <string name="change">Change City</string>
 
 </resources>
